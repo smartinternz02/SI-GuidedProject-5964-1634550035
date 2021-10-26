@@ -1,0 +1,21 @@
+
+
+Drivelink:-
+
+https://drive.google.com/folderview?id=1L79urOu3RnLmii39lWq0EpggdQcp3CJh
+
+This google drive link contain:-
+
+1.chest_xray.zip (Dataset)
+
+2. Pneumonia Application Building.zip
+    
+  This zip file contains:-
+		
+		static folder
+		templates folder
+		uploads folder
+		app1.py
+		pneumonia.h5
+		screenshot of output
+         
